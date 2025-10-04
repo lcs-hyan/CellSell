@@ -1,5 +1,7 @@
 import Foundation
  
+// Written by: Humphrey Yan
+// Date: Saturday Oct 4
 
 let daytime_A = 0.25
 let daytime_B = 0.45
